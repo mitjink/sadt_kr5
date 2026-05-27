@@ -7,23 +7,27 @@
 
 ## Инструкция по запуску
 1. Клонировать репозиторий:
-
+```bash
 git clone https://github.com/mitjink/sadt_kr5    
-
+```
 2. Создать и активировать виртуальное окружение:
 
 ### Windows
+```bash
 python -m venv venv  
 venv\Scripts\activate
+```
 
 ### Mac/Linux
+```bash
 python3 -m venv venv  
 source venv/bin/activate
+```
 
 3. Установить зависимости:
-
+```bash
 pip install -r requirements.txt 
-
+```
 ## Задание 1
 
 ## Задание 2

@@ -98,7 +98,7 @@ def update_task_status(
     return updated_task
 
 @app.delete("/tasks/{task_id}", status_code=204)
-def delete_taqsk_by_id(
+def delete_task_by_id(
     task_id: int,
     x_user_id: Optional[str] = Header(None)
 ):
