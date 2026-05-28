@@ -29,9 +29,14 @@ source venv/bin/activate
 pip install -r requirements.txt 
 ```
 ## Задание 1
+![1.1](screenshots/task1_1.png)
 
 ## Задание 2
+![2.1](screenshots/task2_1.png)
+![2.2](screenshots/task2_2.png)
 
 ## Задание 3
+![3.1](screenshots/task3_1.png)
 
 ## Задание 4
+![4.1](screenshots/task4_1.png)
